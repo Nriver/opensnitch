@@ -41,4 +41,5 @@ TRANSLATIONS += locales/de_DE/opensnitch-de_DE.ts \
                 locales/nb_NO/opensnitch-nb_NO.ts \
                 locales/nl_NL/opensnitch-nl_NL.ts \
                 locales/fi_FI/opensnitch-fi_FI.ts \
-                locales/zh_TW/opensnitch-zh_TW.ts
+                locales/zh_TW/opensnitch-zh_TW.ts \
+                locales/zh_CN/opensnitch-zh_CN.ts
